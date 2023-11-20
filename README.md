@@ -1,6 +1,6 @@
 # ¡Bienvenides! :wave:
 
-**Importante:** Por favor descargar la base de datos de los resultados electorales en el siguiente link de no estar en la carpeta: [Link] (https://drive.google.com/file/d/1lGHJ9ZvvgZKxXGcwv_ZvwJZD5fzke1w_/view?usp=drive_link)
+**Importante:** Por favor descargar la base de datos de los resultados electorales en el siguiente link de no estar en la carpeta: [Link](https://drive.google.com/file/d/1lGHJ9ZvvgZKxXGcwv_ZvwJZD5fzke1w_/view?usp=drive_link)
 
 Y descomprimir el contenido de los archivos dentro de la carpeta utils.
 
