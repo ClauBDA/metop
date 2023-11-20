@@ -17,21 +17,21 @@ Este repositorio es producto de un trabajo conjunto para la materia de Metodolog
 
 El contenido es el siguiente:
 
-## CONSIGNA UNO
+### CONSIGNA UNO
 Encontrar el número primo número mil. Elaborar una función que, indicando un número por parámetro, 
 devuelva el número primo deseado. Se medirá el rendimiento de la función.
 
-## CONSIGNA DOS
+### CONSIGNA DOS
 Sacar un insight de los resultados electorales nacionales. Hacer un informe sobre el resultado electoral de 
 alguno de los candidatos nacionales que pueda posicionar mejor al candidato en cuestión de cara a las elecciones.
 Bajar los datos del recuento parcial y encontrar la cartografía de CABA de los circuitos electorales. 
 Matchear uno con el otro. Habrá puntos extra para quien use la información del Censo.
     [Informe final](https://www.figma.com/proto/zwl2mJvW5ac2eDjb459bEM/Proyecto-MetOP?page-id=0%3A1&type=design&node-id=1-2&viewport=241%2C166%2C0.27&t=mNCUB0KTFTiKX4Pf-1&scaling=contain&starting-point-node-id=22%3A1251&mode=design)
 
-## CONSIGNA TRES
+### CONSIGNA TRES
 Armar la estructura de la base de datos del Censo. DER.
 
-## CONSIGNA CUATRO
+### CONSIGNA CUATRO
 Generar una muestra en función del Inside construido en el punto 3.
 
 *Sobre los archivos:*
